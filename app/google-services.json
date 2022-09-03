@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741021504929",
+    "project_id": "one-stop-farming",
+    "storage_bucket": "one-stop-farming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741021504929:android:bf02013a72856f7f97e7e0",
+        "android_client_info": {
+          "package_name": "com.buildmaster.onestopfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741021504929-crugkbj5f3g8iqoprllm1cc2hprarc8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_eSowX2dAVRTFL2026ZKJKuqxpNYGqX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741021504929-crugkbj5f3g8iqoprllm1cc2hprarc8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
